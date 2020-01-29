@@ -14,7 +14,7 @@ defmodule ExNexmo.SMS.Request do
     from: nil,
     to: nil,
     text: nil,
-    type: "text",
+    type: "unicode",
     # status_report_req: 0,
     # client_ref: nil,
     # vcard: nil,
